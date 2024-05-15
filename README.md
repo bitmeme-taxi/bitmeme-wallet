@@ -1,2 +1,2 @@
 # wallet
-wallet Android
+BitMEME Android Wallet
