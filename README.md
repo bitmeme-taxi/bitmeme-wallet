@@ -2,4 +2,4 @@
 BitMEME Android Wallet
 
 
-btm.apk
+btm.apk - for testing only
